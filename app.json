@@ -1,4 +1,7 @@
 {
   "name": "cloudApp",
-  "displayName": "cloudApp"
+  "displayName": "cloudApp",
+  "plugins": [
+    "expo-router"
+  ]
 }
